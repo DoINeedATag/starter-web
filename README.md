@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Wonderful world of text editins, then more changes
+Emergency fix after stash
 
 ## Purpose
 
