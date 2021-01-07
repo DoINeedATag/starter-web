@@ -13,3 +13,5 @@ Please fork
 ### Copyright
 
 Copyright notice
+
+All rights reserved
